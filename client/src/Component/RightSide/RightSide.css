@@ -1,0 +1,29 @@
+/* .rightSide {
+    
+    max-height: 100vh;
+    position: sticky;
+    top: 0;
+}
+
+
+@media (max-width: 767px) {
+    .rightSide{
+        display: none;
+    }
+}
+
+.rightside_icon {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rightside_icon > img {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.rightside_icon > img:hover{
+    cursor: pointer;
+    transform: translateY(-3px);
+} */
